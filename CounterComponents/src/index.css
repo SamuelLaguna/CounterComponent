@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: red;
+}
+
+.upBtn{
+  background-color: blue;
+}
+
+.downBtn{
+  background-color: red;
+}
+
+.restartBtn{
+  background-color: yellow;
+}
+
+.backShadow{
+  box-shadow: rgb(0, 128, 0);
+}
+
+.counterStyle{
+  color: aquamarine;
+}
+
